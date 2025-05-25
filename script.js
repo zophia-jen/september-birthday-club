@@ -1,5 +1,5 @@
 const questions = [
-  ["Daily Double! https://www.youtube.com/watch?v=cv14hwi0QrI What is the capital of France?", "Paris"],
+  [" <a href="https://www.youtube.com/watch?v=cv14hwi0QrI">Daily Double!</a>  What is the capital of France?", "Paris"],
   ["2 + 2?", "4"],
   ["What color is the sky?", "Blue"],
   ["What is 5 * 6?", "30"],
