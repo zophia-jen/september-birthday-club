@@ -1,5 +1,5 @@
 const questions = [
-  ["https://www.youtube.com/", "Paris"],
+  ["What is the Capital of France", "Paris"],
   ["2 + 2?", "4"],
   ["What color is the sky?", "Blue"],
   ["What is 5 * 6?", "30"],
